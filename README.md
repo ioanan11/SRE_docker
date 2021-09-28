@@ -6,11 +6,11 @@ Microservice architecture is a distinctive method of developing software systems
 
 ### Microservice vs. Monolithic Architecture
 
-![alt text]()
+![alt text](https://github.com/ioanan11/SRE_docker/blob/main/Screenshot%202021-09-28%20084116.png)
 
 #### Strengths vs Weaknesses
 
-![alt text]()
+![alt text](https://github.com/ioanan11/SRE_docker/blob/main/Screenshot%202021-09-28%20085632.png)
 
 #### When to use what?
 
@@ -24,7 +24,7 @@ Docker is an open platform for developing, shipping, and running applications. D
 
 ### Docker vs. VM
 
-![alt text]()
+![alt text](https://github.com/ioanan11/SRE_docker/blob/main/Screenshot%202021-09-28%20090412.png)
 
 Docker is **faster to start**, **smaller in size** and **easier to integrate**.
 
@@ -51,7 +51,7 @@ Settings > Resources > WSL Integration
 
 Make sure the box is ticked. 
 
-![alt text]()
+![alt text](https://github.com/ioanan11/SRE_docker/blob/main/Screenshot%202021-09-28%20091638.png)
 
 ## Step 4: Use Docker!
 
