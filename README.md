@@ -59,7 +59,16 @@ Make sure the box is ticked.
 
 Now you can use docker. Let's run some commands
 
-```
-docker pull hello-world
-docker run hello-world
-```
+- `docker pull name_of_image`
+
+- `docker run name_of_image`
+
+- `docker push name_of_image`
+
+**Note** :The image name needs to be valid.
+
+### Naming convention
+
+Start with your id and add the name you want to give.
+
+Example: `ioanan11/name_of_image`
